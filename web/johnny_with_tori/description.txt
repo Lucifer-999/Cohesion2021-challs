@@ -1,0 +1,8 @@
+Name: Johnny With Tori
+
+Johnny wants to impress Tori by finding the flag.
+The flag is here: <link>
+However only the author has access to the REAL flag.
+Can you help Johnny find the flag?
+
+Author: mystog3n

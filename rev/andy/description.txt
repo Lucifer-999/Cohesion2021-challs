@@ -1,0 +1,6 @@
+Name: Andy
+
+Andy got a file named andy and Andy wants to open andy.
+Help Andy by using any means opening andy.
+
+Author: mystog3n
